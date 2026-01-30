@@ -1,0 +1,6 @@
+subject/
+myenv/
+*.csv
+customer/
+item/
+*.png
